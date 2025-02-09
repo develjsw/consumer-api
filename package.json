@@ -24,11 +24,14 @@
     "@nestjs/common": "^11.0.8",
     "@nestjs/core": "^11.0.8",
     "@nestjs/platform-express": "^11.0.8",
+    "@nestjs/typeorm": "^11.0.0",
     "bull": "^4.16.5",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.1",
+    "mysql2": "^3.12.0",
     "reflect-metadata": "^0.1.14",
-    "rxjs": "7.8"
+    "rxjs": "7.8",
+    "typeorm": "^0.3.20"
   },
   "devDependencies": {
     "@nestjs/cli": "^11.0.2",
